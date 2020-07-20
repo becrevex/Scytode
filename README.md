@@ -17,6 +17,12 @@ When Scytode is ran using a range or a collection from a file, it will automagic
 file of all IPs assessed and their respective server/platform types.  In addition, Scytode will also create a 
 ./targets/ directory with all IPs listed by type in corresponding textfiles.  
 
+## CSV Output (output.csv)
+<img align="center" src="https://github.com/becrevex/Scytode/blob/master/output-csv.JPG"/> 
+
+## Targets Directory (./targets/)
+<img align="center" src="https://github.com/becrevex/Scytode/blob/master/targets.JPG"/> 
+
 ------------------------------------------------------------------------------------------------------
 
 # Installation
