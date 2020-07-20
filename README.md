@@ -1,6 +1,6 @@
 # Scytode Web Identification Scanner
 (scytode.py)
-<img align="center" src="https://github.com/becrevex/Scytode/blob/master/scytode.jpg"/> 
+<img align="center" src="https://github.com/becrevex/Scytode/blob/master/scytode.JPG"/> 
 
 # Examples
 <b>Assess a single target:</b><br>
