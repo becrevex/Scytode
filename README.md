@@ -21,11 +21,9 @@ file of all IPs assessed and their respective server/platform types.  In additio
 <img align="center" src="https://github.com/becrevex/Scytode/blob/master/output-csv.JPG"/> 
 
 ## Targets Directory (./targets/)
-<img align="center" src="https://github.com/becrevex/Scytode/blob/master/targets.JPG"/> 
+<img align="center" src="https://github.com/becrevex/Scytode/blob/master/targets_dir.JPG"/> 
 
 ------------------------------------------------------------------------------------------------------
 
 # Installation
 git clone https://github.com/becrevex/Scytode.git
-
-
