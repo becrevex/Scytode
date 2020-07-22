@@ -1,6 +1,6 @@
 # Scytode Web Identification Scanner
 (scytode.py)
-<img align="center" src="https://github.com/becrevex/Scytode/blob/master/scytode.JPG"/> 
+<img align="center" src="https://github.com/becrevex/Scytode/blob/master/img/scytode.JPG"/> 
 
 # Examples
 <b>Assess a single target:</b><br>
@@ -18,13 +18,13 @@ file of all IPs assessed and their respective server/platform types.  In additio
 ./targets/ directory with all IPs listed by type in corresponding textfiles.  
 
 ## Execution 
-<img align="center" src="https://github.com/becrevex/Scytode/blob/master/execution.JPG"/> 
+<img align="center" src="https://github.com/becrevex/Scytode/blob/master/img/execution.JPG"/> 
 
 ## CSV Output (output.csv)
-<img align="center" src="https://github.com/becrevex/Scytode/blob/master/output-csv.JPG"/> 
+<img align="center" src="https://github.com/becrevex/Scytode/blob/master/img/output-csv.JPG"/> 
 
 ## Targets Directory (./targets/)
-<img align="center" src="https://github.com/becrevex/Scytode/blob/master/targets_dir.JPG"/> 
+<img align="center" src="https://github.com/becrevex/Scytode/blob/master/img/targets_dir.JPG"/> 
 
 ------------------------------------------------------------------------------------------------------
 
